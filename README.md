@@ -2,6 +2,12 @@
 
 Covid19 Dataset Scraper that scrapes data from https://covid19.health.gov.mv
 
+## Installation
+
+```
+composer require jinas/covid19-scraper
+```
+
 ## Usage
 
 ```php
